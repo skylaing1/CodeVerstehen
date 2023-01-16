@@ -25,6 +25,11 @@ int main()
 }
 */
 /*
+Aufgabe 1 
+
+Die größte zahl wird gespeichert
+
+
 Aufgabe 2
 a) 50 mal
 b) 49 mal
@@ -104,7 +109,7 @@ int main()
 */
 
 //c)
-
+/*
 
 #include <iostream>
 
@@ -136,3 +141,4 @@ int main()
     }
 
 }
+*/
